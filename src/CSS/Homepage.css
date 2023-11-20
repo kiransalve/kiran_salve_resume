@@ -1,0 +1,75 @@
+.home {
+  position: relative;
+}
+.home_container {
+  gap: 2rem;
+}
+
+.home_data {
+  gap: 0.5rem;
+  text-align: center;
+}
+.home_img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  justify-self: center;
+  margin-bottom: var(--mb-1);
+}
+.home_title {
+  font-size: var(--h1-font-size);
+}
+.home_profession {
+  font-size: var(--normal-font-size);
+  margin-bottom: var(--mb-1);
+}
+.home_address {
+  gap: 1rem;
+}
+.home_information {
+  display: flex;
+  align-items: center;
+  font-size: var(--small-font-size);
+}
+.home_icon {
+  font-size: 1.2rem;
+  margin-right: 0.25rem;
+}
+.home_button {
+  display: inline-block;
+  border: 2px solid var(--text-color);
+  color: var(--title-color);
+  padding: 0.5rem 0.7rem;
+  border-radius: 0.25rem;
+  transition: 0.5s;
+  font-weight: var(--font-medium);
+}
+.home_button:hover {
+  background-color: var(--text-color);
+  color: var(--container-color);
+}
+.social_container {
+  grid-template-columns: max-content;
+  gap: 1rem;
+}
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  font-size: var(--small-font-size);
+  color: var(--text-color);
+}
+.social-link:hover {
+  color: var(--title-color);
+}
+
+.social_icon {
+  font-size: 1.2rem;
+  margin-right: 0.25rem;
+}
+.download-pdf {
+  cursor: pointer;
+  position: absolute;
+  top: 2.2rem;
+  left: 0;
+  color: #858383;
+}
