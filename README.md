@@ -1,8 +1,12 @@
-# React + Vite
+This is my Resume website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies :
 
-Currently, two official plugins are available:
+React Js
+CSS - Grid, Flexbox
+React Icons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live - https://kiran-salve-resume.netlify.app/
+
+![image](https://github.com/kiransalve/kiran_salve_resume/assets/90862340/72c559cf-8bf4-4b69-826f-648a80367726)
+
