@@ -1,0 +1,20 @@
+.s_content {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0;
+}
+.l_content {
+  display: grid;
+}
+.s_name {
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--mb-1);
+}
+.s_circle {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  background-color: var(--text-color);
+  border-radius: 50%;
+  margin-right: 0.75rem;
+}

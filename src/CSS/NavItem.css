@@ -1,0 +1,21 @@
+.nav_item {
+  text-align: center;
+}
+.nav_link {
+  color: var(--text-color-light);
+  display: flex;
+  flex-direction: column;
+  font-size: var(--smaller-font-size);
+  font-weight: var(--font-medium);
+  align-items: center;
+}
+.nav_link:hover {
+  color: var(--title-color);
+}
+.nav_icon {
+  font-size: 1.2rem;
+  margin-bottom: var(--mb-1);
+}
+.activeLink {
+  color: blue;
+}

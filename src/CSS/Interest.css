@@ -1,0 +1,16 @@
+.interest_container {
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: var(--mb-2);
+  margin-bottom: 2rem;
+}
+.interest_content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+.interest_icon {
+  font-size: 1rem;
+  color: var(--text-color-light);
+  margin-bottom: 0.2rem;
+}

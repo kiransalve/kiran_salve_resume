@@ -1,0 +1,42 @@
+.e_content {
+  display: flex;
+}
+.e_time {
+  padding-right: 1rem;
+}
+.e_round {
+  position: relative;
+  display: block;
+  width: 16px;
+  height: 16px;
+  background-color: var(--text-color-light);
+  border-radius: 50%;
+  margin-top: 0.25rem;
+}
+.e_line {
+  display: block;
+  width: 2px;
+  height: 110%;
+  background-color: var(--text-color-light);
+  transform: translate(7px, 0);
+}
+.e_data {
+  gap: 0.5rem;
+}
+.e_title {
+  font-size: var(--h3-font-size);
+}
+.p_link {
+  font-size: var(--small-font-size);
+  color: var(--title-color);
+  cursor: pointer;
+}
+.p_desc {
+  font-size: var(--smaller-font-size);
+}
+.p_front{
+  display: flex;
+  gap: .5rem;
+  align-items: center;
+  justify-content: space-between;
+}
