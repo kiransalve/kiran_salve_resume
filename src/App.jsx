@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import Homepage from "./pages/Homepage";
 import Header from "./components/Header";
-import Profile from "./pages/Profile";
 import Education from "./pages/Education";
 import Skills from "./pages/Skills";
 import Experience from "./pages/Experience";
