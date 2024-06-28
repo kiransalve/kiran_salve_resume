@@ -3,8 +3,13 @@ import "../CSS/projects.css";
 
 const projectsInfo = [
   {
+    title: "Tour Booking Webapp",
+    link: "https://lets-go-xi.vercel.app/",
+    desc: "User Auth, Booking , Payment",
+  },
+  {
     title: "Ecommerce Website",
-    link: "https://estoreapp-kiransalve.netlify.app/",
+    link: "https://ecom-kiransalve.vercel.app/",
     desc: "User Auth, Product Search, Sort, Filter, Cart, Order, Payment",
   },
   {
