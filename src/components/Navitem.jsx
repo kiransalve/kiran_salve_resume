@@ -1,5 +1,5 @@
 import React from "react";
-import "../CSS/Navitem.css";
+import "../CSS/NavItem.css";
 
 const Navitem = ({ navItem, isActive, handleClick, id }) => {
   return (
