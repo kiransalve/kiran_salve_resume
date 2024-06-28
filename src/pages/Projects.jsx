@@ -1,5 +1,5 @@
 import React from "react";
-import "../CSS/projects.css";
+import "../CSS/Projects.css";
 
 const projectsInfo = [
   {
